@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="RobocupSSL" Database="./RobocupSSL.tags">
+  <Environment>
+    <![CDATA[
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ]]>
+  </Environment>
+  <Project Name="CodeOSoccer" Path="CodeOSoccer/CodeOSoccer.project" Active="Yes"/>
+  <Project Name="Strategy" Path="Strategy/Strategy.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="CodeOSoccer" ConfigName="Debug"/>
+      <Project Name="Strategy" ConfigName="Debug"/>
+      <Project Name="Strategy" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="CodeOSoccer" ConfigName="Release"/>
+      <Project Name="Strategy" ConfigName="Release"/>
+      <Project Name="Strategy" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
