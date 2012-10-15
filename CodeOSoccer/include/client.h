@@ -1,6 +1,6 @@
 #ifndef CLIENT_H
 #define CLIENT_H
-#include "../rbSimulator/config.h"
+#include "rbSimulator/config.h"
 #include <stdio.h>
 #include <string>
 #include "netraw.h"

@@ -52,7 +52,7 @@ if [[ $REPLY = [yY] || $REPLY = "" ]]
 		cd ../..
 		# Putting the executables into /usr/local/bin folder for easily starting the application
 		qmake && make && sudo cp bin/grSim /usr/local/bin || echo -en "\007"
-		sudo rm /usr/local/bin/settings.xml
+		sudo rm /usr/local/bin/settings.xml > /dev/null 2>&1
 		cd ..
 fi 
 echo -e "\nDone\n\n"

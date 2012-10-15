@@ -32,10 +32,11 @@
   
   
   
+  
+  
   ]]>
   </Environment>
   <Project Name="CodeOSoccer" Path="CodeOSoccer/CodeOSoccer.project" Active="Yes"/>
-  <Project Name="Strategy" Path="Strategy/Strategy.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Project Name="CodeOSoccer" ConfigName="Debug"/>
